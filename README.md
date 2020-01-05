@@ -15,3 +15,9 @@ Following the tutorial from https://www.dappuniversity.com/articles/blockchain-t
 ```
 npm i -g truffle@5.0.5
 ```
+
+#### Cloned [this](https://github.com/dappuniversity/starter_kit) project for bootstraping my project
+
+```
+git clone https://github.com/dappuniversity/starter_kit <your_project_name>
+```
